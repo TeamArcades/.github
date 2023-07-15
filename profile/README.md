@@ -20,7 +20,7 @@ src="https://skillicons.dev/icons?i=ts,js,java,cs,go,php,html,jquery,css,sass,bo
 </div>
 
 ### Contact
-- 👨‍💻 Website: http://teamarcades.xyz
+- 👨‍💻 Website: https://teamarcades.xyz
 - 📫 How to reach us: admin@teamarcades.xyz
 
 
